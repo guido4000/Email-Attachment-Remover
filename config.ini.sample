@@ -1,0 +1,11 @@
+[DEFAULT]
+all_folders = True
+max_size = 5000
+standard_folder = INBOX
+test_mode = True
+
+[mailserver]
+ServerAliveInterval = 45
+server = mailserver
+user = account
+password = password

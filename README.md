@@ -14,8 +14,10 @@
 # Usage
 
 - Use Python 3
-- Set IMAP mailbox login configuration
-- Decide to run single folder or all folders
+- Adjust config.ini sample, rename to config.ini and copy into env folder
+	- Set IMAP mailbox login configuration
+	- Decide to run single folder or all folders
+	- Activate test mode with enhanced logging if needed
 - Run email_attachment_remover.py
 
 # Hint
